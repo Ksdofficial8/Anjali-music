@@ -13,9 +13,9 @@ API_HASH = getenv("API_HASH","a069bf02806468fe18427ab6b9a3bb6c")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN","7751992632:AAHPHGL7y-RjCWzvCBTOg2K6pXFtreH5KmI")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","KSDOFFICIAL84")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Rocky_dtm")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","BIT_music_robot")
+BOT_USERNAME = getenv("BOT_USERNAME","anjalixmusicbot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -30,7 +30,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002356335631))
 
 # Get this value from @RIYAXMUSICBOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7425303918))
+OWNER_ID = int(getenv("OWNER_ID", 6888783488))
 
 # make your bots privacy from telegra.ph and put your url here 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://graph.org/PRIVACY-FOR-TEAM-PURVI-BOTS-09-18")
@@ -44,15 +44,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Ksdofficial8/BIT_MUSIC",
+    "https://github.com/Ksdofficial8/Anjali-music",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/UNBEATABLE_bit")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/BIT_networks")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Stylish_Name_ProfileDp")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DtmSupport86")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -90,7 +90,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/ccwot8.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/te3jxi.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/hqfvw1.jpg"
