@@ -137,7 +137,7 @@ async def greet_group(_, member: ChatMemberUpdated):
 ┣ 𝟓 ➥ 𝐆ɪᴠᴇ  ʀᴇsᴘᴇᴄᴛ , ᴛᴀᴋᴇ  ʀᴇsᴘᴇᴄᴛ 
 ┗━━━━━━━━━━━━━━━━━      
 
-❖ ᴘᴏᴡᴇʀᴇᴅ  ➥ [вιƚ ɳҽƚɯσɾƙ](https://t.me/BIT_networks)
+❖ ᴘᴏᴡᴇʀᴇᴅ  ➥ [𓆩𝐑 𝛐 𝛓 𝛋 𝛄𓆪 🥂↝](https://t.me/Rocky_dtm)
 """,
             reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"✙ ᴋɪᴅɴᴀᴘ ᴍᴇ ✙", url=f"https://t.me/{app.username}?startgroup=true")]])
         )
